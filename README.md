@@ -22,8 +22,9 @@ No team. No shortcuts. Just code and vision.
 ## My Projects
 
 ### Aivorize
-AI-powered web platform and experimental lab.
-Free tools built for real everyday problems.
+Free productivity tools platform and parent brand for all my projects.
+Tools include: Calculator, QR Code Generator, QR Code Scanner, 
+Password Generator, Unit Converter and more.
 🔗 [aivorize.netlify.app](https://aivorize.netlify.app)
 
 ### Aivorize QuickSlip
